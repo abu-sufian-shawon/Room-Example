@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="technology">
+        <item>--Select Technology--</item>
+        <item>Computer</item>
+        <item>Electrical</item>
+        <item>Civil</item>
+        <item>Mechanical</item>
+        <item>Textile</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>--Select Semester--</item>
+        <item>1st Semester</item>
+        <item>2nd Semester</item>
+        <item>3rd Semester</item>
+        <item>4th Semester</item>
+        <item>5th Semester</item>
+        <item>6th Semester</item>
+        <item>7th Semester</item>
+        <item>8th Semester</item>
+    </string-array>
+</resources>
